@@ -1,4 +1,4 @@
-* Hello World program */
+/* Hello World program */
 
 #include<stdio.h>
 
@@ -6,5 +6,5 @@ main()
 {
     printf("Hello World");
 
-
 }
+// Add comment at eof
