@@ -1,4 +1,5 @@
-* Hello World program */
+/* Hello World program */
+//Fix typo
 
 #include<stdio.h>
 
